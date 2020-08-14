@@ -1,0 +1,35 @@
+body {
+    background: #E3E3E3 !important;
+}
+
+.navbar {
+    color: white !important;
+}
+
+.navbar-link {
+    font-size: 20px;
+}
+
+.navbar-link a {
+    color: white !important;
+}
+
+.login-form {
+    width: 400px;
+    background: white;
+    padding: 30px;
+    margin: 30px auto;
+}
+
+.login-form .avatar {
+    margin: 0 auto 30px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #3598DC;
+    padding: 15px 27px;
+}
+
+.login-form .avatar i {
+    color: white;
+}

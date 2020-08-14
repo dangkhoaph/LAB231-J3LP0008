@@ -1,0 +1,155 @@
+FATAL   2020-06-19 21:10:03,377 [http-nio-8084-exec-24] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key search.jsp
+FATAL   2020-06-19 21:10:03,383 [http-nio-8084-exec-25] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,393 [http-nio-8084-exec-21] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,395 [http-nio-8084-exec-22] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,397 [http-nio-8084-exec-23] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,400 [http-nio-8084-exec-26] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,407 [http-nio-8084-exec-28] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,408 [http-nio-8084-exec-29] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,410 [http-nio-8084-exec-27] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,412 [http-nio-8084-exec-30] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,413 [http-nio-8084-exec-24] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,415 [http-nio-8084-exec-25] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,417 [http-nio-8084-exec-21] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,420 [http-nio-8084-exec-22] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,421 [http-nio-8084-exec-23] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,422 [http-nio-8084-exec-26] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,424 [http-nio-8084-exec-28] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,426 [http-nio-8084-exec-29] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,427 [http-nio-8084-exec-27] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,430 [http-nio-8084-exec-30] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:10:03,431 [http-nio-8084-exec-24] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-19 21:18:59,701 [http-nio-8084-exec-24] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key search.jsp
+FATAL   2020-06-19 21:27:29,728 [http-nio-8084-exec-31] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key search.jsp
+FATAL   2020-06-19 21:34:05,629 [http-nio-8084-exec-47] khoaphd.filters.MainFilter  - /search.jsp (line: 72, column: 8) Unterminated &lt;c:if tag
+FATAL   2020-06-19 22:18:42,141 [http-nio-8084-exec-71] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key ivivu-suanthai-pattaya-450x265.jpg
+FATAL   2020-06-19 22:19:07,291 [http-nio-8084-exec-78] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key ivivu-suanthai-pattaya-450x265.jpg
+FATAL   2020-06-19 22:19:20,742 [http-nio-8084-exec-76] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key ivivu-suanthai-pattaya-450x265.jpg
+FATAL   2020-06-19 22:20:38,988 [http-nio-8084-exec-74] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key ivivu-suanthai-pattaya-450x265.jpg
+FATAL   2020-06-19 22:23:28,498 [http-nio-8084-exec-72] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key ivivu-suanthai-pattaya-450x265.jpg
+FATAL   2020-06-19 22:38:27,672 [http-nio-8084-exec-74] khoaphd.controllers.LoadFirstTimeServlet  - Incorrect syntax near '@P0'.
+FATAL   2020-06-20 10:25:20,809 [http-nio-8084-exec-11] khoaphd.filters.MainFilter  - javax.servlet.ServletException: javax.servlet.jsp.JspException: In &lt;formatNumber&gt;, value attribute can not be parsed into java.lang.Number: "6590000.12454 ?"
+FATAL   2020-06-20 11:06:04,524 [http-nio-8084-exec-12] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key abcd
+FATAL   2020-06-20 11:35:36,814 [http-nio-8084-exec-22] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key search
+FATAL   2020-06-20 11:35:43,232 [http-nio-8084-exec-28] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key search
+FATAL   2020-06-20 15:41:33,093 [http-nio-8084-exec-66] khoaphd.controllers.SearchTourServlet  - Unparseable date: ""
+FATAL   2020-06-20 15:41:52,324 [http-nio-8084-exec-67] khoaphd.controllers.SearchTourServlet  - Unparseable date: ""
+FATAL   2020-06-20 15:42:08,799 [http-nio-8084-exec-61] khoaphd.controllers.SearchTourServlet  - Unparseable date: ""
+FATAL   2020-06-20 15:42:09,399 [http-nio-8084-exec-62] khoaphd.controllers.SearchTourServlet  - Unparseable date: ""
+FATAL   2020-06-20 15:42:09,553 [http-nio-8084-exec-63] khoaphd.controllers.SearchTourServlet  - Unparseable date: ""
+FATAL   2020-06-20 15:42:09,721 [http-nio-8084-exec-69] khoaphd.controllers.SearchTourServlet  - Unparseable date: ""
+FATAL   2020-06-20 15:44:17,459 [http-nio-8084-exec-71] khoaphd.controllers.SearchTourServlet  - Unparseable date: ""
+FATAL   2020-06-20 15:44:20,593 [http-nio-8084-exec-76] khoaphd.controllers.SearchTourServlet  - Unparseable date: ""
+FATAL   2020-06-20 15:44:30,932 [http-nio-8084-exec-75] khoaphd.controllers.SearchTourServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 15:49:41,035 [http-nio-8084-exec-88] khoaphd.controllers.SearchTourServlet  - Unparseable date: ""
+FATAL   2020-06-20 15:50:14,294 [http-nio-8084-exec-90] khoaphd.controllers.SearchTourServlet  - empty String
+FATAL   2020-06-20 15:51:49,450 [http-nio-8084-exec-2] khoaphd.controllers.SearchTourServlet  - empty String
+FATAL   2020-06-20 15:56:50,302 [http-nio-8084-exec-27] khoaphd.controllers.SearchTourServlet  - Unparseable date: "abc"
+FATAL   2020-06-20 15:57:26,634 [http-nio-8084-exec-25] khoaphd.controllers.SearchTourServlet  - For input string: "a"
+FATAL   2020-06-20 16:57:58,020 [http-nio-8084-exec-32] khoaphd.controllers.LoadFirstTimeServlet  - Incorrect syntax near 'Tour'.
+FATAL   2020-06-20 16:58:14,256 [http-nio-8084-exec-40] khoaphd.controllers.SearchTourServlet  - Incorrect syntax near 'Tour'.
+FATAL   2020-06-20 16:58:16,144 [http-nio-8084-exec-41] khoaphd.controllers.SearchTourServlet  - Incorrect syntax near 'Tour'.
+FATAL   2020-06-20 17:01:39,127 [http-nio-8084-exec-51] khoaphd.controllers.LoadFirstTimeServlet  - The number of rows provided for a FETCH clause must be greater then zero.
+FATAL   2020-06-20 17:01:49,084 [http-nio-8084-exec-61] khoaphd.controllers.LoadFirstTimeServlet  - The number of rows provided for a FETCH clause must be greater then zero.
+FATAL   2020-06-20 17:06:05,138 [http-nio-8084-exec-70] khoaphd.controllers.SearchTourServlet  - For input string: "a"
+FATAL   2020-06-20 17:34:20,869 [http-nio-8084-exec-81] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key login
+FATAL   2020-06-20 18:02:08,831 [http-nio-8084-exec-90] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key search;jsessionid=B1A6224B99FFBACF18D8DB6DBCF7C0C1
+FATAL   2020-06-20 18:02:39,700 [http-nio-8084-exec-93] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key search;jsessionid=656A3D5BF16A594F7E10F0042B2F598F
+FATAL   2020-06-20 18:03:40,166 [http-nio-8084-exec-100] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key search;jsessionid=656A3D5BF16A594F7E10F0042B2F598F
+FATAL   2020-06-20 18:04:11,007 [http-nio-8084-exec-101] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key addToCart
+FATAL   2020-06-20 21:08:47,283 [http-nio-8084-exec-124] khoaphd.controllers.SearchTourServlet  - For input string: "a"
+FATAL   2020-06-20 21:08:49,371 [http-nio-8084-exec-122] khoaphd.controllers.SearchTourServlet  - For input string: "b"
+FATAL   2020-06-20 21:08:50,319 [http-nio-8084-exec-118] khoaphd.controllers.SearchTourServlet  - For input string: "c"
+FATAL   2020-06-20 21:08:51,587 [http-nio-8084-exec-126] khoaphd.controllers.SearchTourServlet  - For input string: "d"
+FATAL   2020-06-20 21:34:06,802 [http-nio-8084-exec-137] khoaphd.controllers.SearchTourServlet  - The offset specified in a OFFSET clause may not be negative.
+FATAL   2020-06-20 21:34:09,267 [http-nio-8084-exec-143] khoaphd.controllers.SearchTourServlet  - For input string: "a"
+FATAL   2020-06-20 21:35:17,564 [http-nio-8084-exec-142] khoaphd.controllers.SearchTourServlet  - Unparseable date: "abc"
+FATAL   2020-06-21 08:45:01,384 [http-nio-8084-exec-37] khoaphd.filters.MainFilter  - 
+FATAL   2020-06-21 08:45:01,394 [http-nio-8084-exec-28] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key LoginServlet
+FATAL   2020-06-21 08:46:04,394 [http-nio-8084-exec-43] khoaphd.filters.MainFilter  - 
+FATAL   2020-06-21 08:46:04,398 [http-nio-8084-exec-44] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key LoginServlet
+FATAL   2020-06-21 08:46:59,785 [http-nio-8084-exec-47] khoaphd.filters.MainFilter  - 
+FATAL   2020-06-21 08:46:59,792 [http-nio-8084-exec-44] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key LoginServlet
+FATAL   2020-06-21 11:33:43,532 [http-nio-8084-exec-182] khoaphd.controllers.SearchTourServlet  - 
+FATAL   2020-06-21 15:22:49,090 [http-nio-8084-exec-199] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key error.html
+FATAL   2020-06-21 15:36:05,071 [http-nio-8084-exec-198] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key g
+FATAL   2020-06-21 17:13:46,281 [http-nio-8084-exec-216] khoaphd.controllers.SearchTourServlet  - 
+FATAL   2020-06-21 17:15:57,359 [http-nio-8084-exec-215] khoaphd.controllers.SearchTourServlet  - 
+FATAL   2020-06-21 17:29:16,145 [http-nio-8084-exec-247] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:29:33,624 [http-nio-8084-exec-251] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:29:35,163 [http-nio-8084-exec-254] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:30:11,935 [http-nio-8084-exec-248] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:30:14,138 [http-nio-8084-exec-252] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:30:51,539 [http-nio-8084-exec-247] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:30:52,701 [http-nio-8084-exec-250] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:34:11,894 [http-nio-8084-exec-246] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:34:12,444 [http-nio-8084-exec-250] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:34:12,673 [http-nio-8084-exec-253] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:34:12,862 [http-nio-8084-exec-248] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 17:34:13,093 [http-nio-8084-exec-251] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key 104919449_896269627541695_7505756923087168931_n.png
+FATAL   2020-06-21 23:18:03,556 [http-nio-8084-exec-409] khoaphd.controllers.SearchTourServlet  - 
+FATAL   2020-06-22 00:32:45,202 [http-nio-8084-exec-465] khoaphd.filters.MainFilter  - An exception occurred processing JSP page /viewCart.jsp at line 52
+
+49:                                     ${counter.count}
+50:                                 </td>
+51:                                 <td>
+52:                                     <img src="${tour.imageLink}" alt="No image available" width="200px" height="100px"/>
+53:                                 </td>
+54:                                 <td>${tour.tourName}</td>
+55:                                 <td>${tour.place}</td>
+
+
+Stacktrace:
+FATAL   2020-06-22 00:32:45,207 [http-nio-8084-exec-466] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key viewCart.jsp
+FATAL   2020-06-22 00:33:49,971 [http-nio-8084-exec-462] khoaphd.filters.MainFilter  - An exception occurred processing JSP page /viewCart.jsp at line 52
+
+49:                                     ${counter.count}
+50:                                 </td>
+51:                                 <td>
+52:                                     <img src="${tour.imageLink}" alt="No image available" width="200px" height="100px"/>
+53:                                 </td>
+54:                                 <td>${tour.tourName}</td>
+55:                                 <td>${tour.place}</td>
+
+
+Stacktrace:
+FATAL   2020-06-22 00:33:49,973 [http-nio-8084-exec-467] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key viewCart.jsp
+FATAL   2020-06-22 00:33:56,126 [http-nio-8084-exec-464] khoaphd.filters.MainFilter  - An exception occurred processing JSP page /viewCart.jsp at line 52
+
+49:                                     ${counter.count}
+50:                                 </td>
+51:                                 <td>
+52:                                     <img src="${tour.imageLink}" alt="No image available" width="200px" height="100px"/>
+53:                                 </td>
+54:                                 <td>${tour.tourName}</td>
+55:                                 <td>${tour.place}</td>
+
+
+Stacktrace:
+FATAL   2020-06-22 00:33:56,130 [http-nio-8084-exec-465] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key viewCart.jsp
+FATAL   2020-06-22 01:06:15,144 [http-nio-8084-exec-487] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key updateAmountOfTour
+FATAL   2020-06-22 07:46:40,658 [http-nio-8084-exec-5] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key checkDiscountCode
+FATAL   2020-06-22 07:49:55,578 [http-nio-8084-exec-2] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key checkDiscountCode
+FATAL   2020-06-22 08:14:43,500 [http-nio-8084-exec-12] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key checkDiscountCode
+FATAL   2020-06-22 08:14:47,252 [http-nio-8084-exec-16] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key checkDiscountCode
+FATAL   2020-06-22 08:15:08,028 [http-nio-8084-exec-16] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key checkDiscountCode
+FATAL   2020-06-22 08:15:11,634 [http-nio-8084-exec-18] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key checkDiscountCode
+FATAL   2020-06-22 08:15:35,805 [http-nio-8084-exec-13] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key checkDiscountCode
+FATAL   2020-06-22 08:16:19,109 [http-nio-8084-exec-7] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key checkDiscountCode
+FATAL   2020-06-22 09:18:05,022 [http-nio-8084-exec-7] khoaphd.controllers.CheckDiscountCodeServlet  - Incorrect syntax near '='.
+FATAL   2020-06-22 09:19:55,565 [http-nio-8084-exec-9] khoaphd.controllers.CheckDiscountCodeServlet  - Incorrect syntax near '='.
+FATAL   2020-06-22 09:20:49,001 [http-nio-8084-exec-12] khoaphd.controllers.CheckDiscountCodeServlet  - Ambiguous column name 'DiscountId'.
+FATAL   2020-06-22 09:22:49,217 [http-nio-8084-exec-22] khoaphd.controllers.CheckDiscountCodeServlet  - Invalid column name 'ExpiryDdate'.
+FATAL   2020-06-22 09:24:08,032 [http-nio-8084-exec-38] khoaphd.filters.MainFilter  - javax.servlet.ServletException: javax.servlet.jsp.JspException: In &lt;formatNumber&gt;, invalid type attribute: "percentage"
+FATAL   2020-06-22 09:24:08,036 [http-nio-8084-exec-36] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key CheckDiscountCodeServlet
+FATAL   2020-06-22 09:31:28,561 [http-nio-8084-exec-53] khoaphd.filters.MainFilter  - javax.servlet.ServletException: javax.servlet.jsp.JspException: In &lt;formatNumber&gt;, invalid type attribute: "percentage"
+FATAL   2020-06-22 09:31:28,568 [http-nio-8084-exec-54] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key CheckDiscountCodeServlet
+FATAL   2020-06-22 09:35:45,151 [http-nio-8084-exec-50] khoaphd.filters.MainFilter  - javax.servlet.ServletException: javax.servlet.jsp.JspException: In &lt;formatNumber&gt;, invalid type attribute: "percentage"
+FATAL   2020-06-22 09:35:45,156 [http-nio-8084-exec-61] khoaphd.filters.MainFilter  - Can't find resource for bundle java.util.PropertyResourceBundle, key CheckDiscountCodeServlet
+FATAL   2020-06-22 15:08:29,546 [http-nio-8084-exec-127] khoaphd.controllers.SearchTourServlet  - 
+FATAL   2020-06-22 15:38:26,873 [http-nio-8084-exec-147] khoaphd.controllers.CreateNewTourServlet  - D:\FPT\5th Semester\LAB231\Lab 2\J3LP0008_SE140609\build\web\images\ivivu-cong-vien-hoang-gia-450x265.jpg (The system cannot find the path specified)
+FATAL   2020-06-22 15:39:25,934 [http-nio-8084-exec-146] khoaphd.controllers.CreateNewTourServlet  - D:\FPT\5th Semester\LAB231\Lab 2\J3LP0008_SE140609\build\web\images\ivivu-cong-vien-hoang-gia-450x265.jpg (The system cannot find the path specified)
+FATAL   2020-06-22 15:40:49,587 [http-nio-8084-exec-151] khoaphd.controllers.CreateNewTourServlet  - D:\FPT\5th Semester\LAB231\Lab 2\J3LP0008_SE140609\build\web\images\ivivu-cong-vien-hoang-gia-450x265.jpg (The system cannot find the path specified)
+FATAL   2020-06-22 15:44:24,346 [http-nio-8084-exec-162] khoaphd.controllers.CreateNewTourServlet  - D:\FPT\5th Semester\LAB231\Lab 2\J3LP0008_SE140609\build\web\images\ivivu-cong-vien-hoang-gia-450x265.jpg (The system cannot find the path specified)
+FATAL   2020-06-22 16:01:21,584 [http-nio-8084-exec-222] khoaphd.controllers.CreateNewTourServlet  - String or binary data would be truncated.
+FATAL   2020-06-22 16:01:46,781 [http-nio-8084-exec-225] khoaphd.controllers.CreateNewTourServlet  - String or binary data would be truncated.

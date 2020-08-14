@@ -1,0 +1,26 @@
+body {
+    background: #E3E3E3 !important;
+}
+
+.navbar {
+    color: white !important;
+}
+
+.navbar-link {
+    font-size: 20px;
+}
+
+.navbar-link a {
+    color: white !important;
+}
+
+.create-tour-form {
+    width: 60%;
+    background: white;
+    padding: 30px;
+    margin: 30px auto;
+}
+
+.create-tour-form .col-form-label {
+    font-weight: bold;
+}

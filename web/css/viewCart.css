@@ -1,0 +1,32 @@
+body {
+    background: #E3E3E3 !important;
+}
+
+.navbar {
+    color: white !important;
+}
+
+.navbar-link {
+    font-size: 20px;
+}
+
+.navbar-link a {
+    color: white !important;
+}
+
+.alert {
+    width: 800px;
+    margin: 30px auto;
+}
+
+.table-show-cart {
+    width: 90%;
+    margin: 30px auto;
+}
+
+.show-total-form {
+    width: 90%;
+    margin: 30px auto;
+    padding: 30px;
+    background: white;
+}
